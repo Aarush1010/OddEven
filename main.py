@@ -214,6 +214,8 @@ def Even():
         print("It's Odd")
     elif Num == "106":
         print("It's Even")
+    elif Num == "107":
+        print("It's Odd")
     
 
 
