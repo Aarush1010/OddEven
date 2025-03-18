@@ -218,7 +218,18 @@ def Even():
         print("It's Odd")
     elif Num == "108":
         print("It's Even")
-
+    elif Num == "109":
+        print("It's Odd")
+    elif Num == "110":
+        print("It's Even")
+    elif Num == "111":
+        print("It's Odd")
+    elif Num == "112":
+        print("It's Even")
+    elif Num == "113":
+        print("It's Odd")
+    elif Num == "114":
+        print("It's Even")
 
 Even()
 
